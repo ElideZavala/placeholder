@@ -2,4 +2,4 @@
 `CSS & JavaScrip`
 
 ## Vista
-![image](vista.gif)
+![image](Vista.gif)
